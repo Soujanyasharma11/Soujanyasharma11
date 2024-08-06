@@ -3,7 +3,7 @@
 
 - 🔗 I’m currently working on **Blockchain based product verification**
 
-- ⚙️ I’m currently learning **Machine learning and Data Science**
+- ⚙️ I’m currently learning **Data Science and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Web applications**
 
