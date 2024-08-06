@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soujanya P Sharma</h1>
 <h3 align="center">"Passionate web developer with a strong enthusiasm for data."</h3>
 
-- 🔭 I’m currently working on **Blockchain based product verification**
+- 🔗 I’m currently working on **Blockchain based product verification**
 
-- 🌱 I’m currently learning **Machine learning and Data Science**
+- ⚙️ I’m currently learning **Machine learning and Data Science**
 
 - 👯 I’m looking to collaborate on **Web applications**
 
